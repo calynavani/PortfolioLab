@@ -1,0 +1,44 @@
+body{        
+    padding-top: 40px;
+    padding-bottom: 40px;
+    border-right: orange;
+    border-left: orange;
+    background: whitesmoke;
+    background-position: center;
+    border-bottom: orange;
+    border-top: orange;
+    border-width: 2cm;
+    border-style: groove;
+    font-family: cursive;
+    
+    
+}
+
+
+
+header  {
+    top: 0;
+    position: fixed;
+    padding-left: 1500px;
+    padding-top: 100px;
+    font-size: 20px;
+    font-family: cursive;
+    
+   
+ 
+ }
+ footer  {
+
+   
+   bottom: 0;
+   
+   position: sticky;
+   padding-left: 1500px;
+   font-size: 20px;
+   font-family: cursive;
+   
+  
+   
+    
+ 
+ }
